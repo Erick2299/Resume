@@ -1,57 +1,81 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/hL85mACD)
+# 🌐 CV Web — Currículum Personal en HTML y CSS
 
-LINK DE VERCEL:
-
-https://resume-omega-bay-31.vercel.app/
-
-<a href="https://resume-omega-bay-31.vercel.app/">Texto del enlace</a>
-# CV Web – Proyecto de Currículum en HTML y CSS
-
-## Descripción del proyecto
-Este proyecto es una página web tipo currículum (CV) creada con HTML y CSS. Su objetivo es mostrar información personal y profesional de forma estructurada, visual y responsive.
-
-Sirve como práctica para aprender a construir páginas web desde cero y aplicar estilos modernos con CSS.
+Una página web de currículum vitae creada con **HTML y CSS** como proyecto de aprendizaje de desarrollo web desde cero.
 
 ---
 
-## Contexto
-El proyecto se ha desarrollado como parte del aprendizaje de desarrollo web, siguiendo diferentes módulos de HTML y CSS. A lo largo del curso se han aplicado conceptos progresivos hasta llegar a una página completa y funcional.
+## 📦 Contenido del Proyecto
+
+El proyecto contiene la implementación completa de un CV web, incluyendo:
+
+- Estructura semántica del currículum en HTML5
+- Estilos visuales modernos con CSS3
+- Diseño responsive adaptado a distintos dispositivos
+- Maquetación con Flexbox y CSS Grid
+- Animaciones CSS para mejorar la experiencia visual
+- Formulario de contacto integrado
+- Pseudo-elementos y efectos decorativos con CSS puro
 
 ---
 
-## Tecnologías usadas
-- HTML5
-- CSS3
-- Flexbox
-- Grid Layout
-- Responsive Design
-- Animaciones CSS
+## ⚙️ Funcionalidades Principales
+
+- **Diseño profesional**: Presentación clara y estructurada de información personal y profesional
+- **Totalmente responsive**: Se adapta correctamente a móviles, tablets y escritorio
+- **Animaciones CSS**: Efectos visuales fluidos sin necesidad de JavaScript
+- **Formulario de contacto**: Sección interactiva para recibir mensajes
+- **Sin dependencias externas**: Construido únicamente con HTML y CSS nativos
 
 ---
 
-## Contenido aprendido (progresión del curso)
-- Configuración del entorno
-- HTML básico: elementos y contenedores
-- CSS básico: estilos y modelo de caja
-- Alineación y Flexbox
-- CSS Grid
-- Formularios HTML
-- Posicionamiento CSS
-- Diseño responsive
-- Animaciones CSS
-- Pseudo-elementos y despliegue del proyecto
+## 🛠️ Stack Tecnológico
+
+| Tecnología | Uso |
+|---|---|
+| HTML5 | Estructura semántica del currículum |
+| CSS3 | Estilos, colores, tipografía y efectos visuales |
+| Flexbox | Alineación y distribución de elementos en una dimensión |
+| CSS Grid | Maquetación de secciones en dos dimensiones |
+| Responsive Design | Adaptación a distintos tamaños de pantalla con media queries |
+| Animaciones CSS | Transiciones y efectos visuales sin JavaScript |
+| Pseudo-elementos | Detalles decorativos con `::before` y `::after` |
 
 ---
 
-## Características del proyecto
-- Diseño tipo CV profesional
-- Adaptado a diferentes dispositivos (responsive)
-- Estructura clara y organizada
-- Uso de técnicas modernas de CSS
+## 📚 Progresión del Aprendizaje
+
+El proyecto se desarrolló de forma progresiva a lo largo del curso, aplicando cada concepto sobre el anterior:
+
+1. Configuración del entorno de desarrollo
+2. HTML básico: elementos, contenedores y semántica
+3. CSS básico: estilos, colores y modelo de caja
+4. Alineación y Flexbox
+5. CSS Grid
+6. Formularios HTML
+7. Posicionamiento CSS
+8. Diseño responsive con media queries
+9. Animaciones y transiciones CSS
+10. Pseudo-elementos y despliegue del proyecto
 
 ---
 
-## Cómo ver el proyecto
-1. Clona el repositorio:
+## 🚀 Cómo Ver el Proyecto
+
 ```bash
+# Clona el repositorio
 git clone https://github.com/berserker012299-boop/Resume.git
+
+# Accede a la carpeta
+cd Resume
+
+# Abre el archivo principal en tu navegador
+open index.html
+```
+
+> También puedes simplemente abrir el archivo `index.html` directamente desde tu explorador de archivos.
+
+---
+
+## 👤 Autor
+
+Desarrollado como proyecto de práctica de desarrollo web con HTML y CSS.

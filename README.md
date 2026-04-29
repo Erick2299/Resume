@@ -54,4 +54,4 @@ El proyecto se ha desarrollado como parte del aprendizaje de desarrollo web, sig
 ## Cómo ver el proyecto
 1. Clona el repositorio:
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/berserker012299-boop/Resume.git

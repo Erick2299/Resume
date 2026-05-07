@@ -73,6 +73,8 @@ open index.html
 ```
 
 > También puedes simplemente abrir el archivo `index.html` directamente desde tu explorador de archivos.
+> También puedes ver la versión desplegada en producción directamente desde **Vercel**.  
+🔗 https://resume-omega-bay-31.vercel.app/
 
 ---
 
